@@ -1,0 +1,30 @@
+{
+  "name": "ws-codedamn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4",
+    "sqlite3": "^3.1.13",
+    "swig": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcburnett/home"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "socketio"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+    "files": [
+        "ts/jquery.d.ts",
+        "ts/todoclass.ts",
+        "ts/main.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es2017",
+        "allowJs": true
+    }
+}
